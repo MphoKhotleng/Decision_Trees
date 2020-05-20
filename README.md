@@ -1,6 +1,6 @@
 ### Assignment_Outline
 
-#Use a decision tree model to predict whether mushrooms are poisonous or edible. 
+# Use a decision tree model to predict whether mushrooms are poisonous or edible. 
 
 1. Split your data into train and test sets. 
 2. Get basic descriptive statistics for the training data and check for missing, incorrect or extreme values. 
